@@ -1,0 +1,17 @@
+pnlAddPane();
+nil
+1
+designOpen("d:\\university of kentucky\\writen of paper\\write of paper- 27-02-1402\\simulation of second method\\first step\\t and z.sp");
+"D0"
+t
+pnlAddCurve(1, node(D0,"A0","v(x)"), node(D0,"A0","TIME"));
+nil
+pnlAddCurve(1, node(D0,"A0","v(y)"), node(D0,"A0","TIME"));
+nil
+pnlAddCurve(1, node(D0,"A0","v(z)"), node(D0,"A0","TIME"));
+nil
+pnlAddCurve(1, node(D0,"A0","v(t)"), node(D0,"A0","TIME"));
+nil
+pnlDeletePane(1, 1);
+nil
+nil

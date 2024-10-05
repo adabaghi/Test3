@@ -1,0 +1,4 @@
+$DATA1 SOURCE='HSPICE' VERSION='H-2013.03-SP2 64-BIT'
+.TITLE 't and z'
+ pow              temper           alter#            
+  4.326e-06        2.500e+01       1                 

@@ -1,0 +1,40 @@
+* "simulator" "HSPICE" 
+* "version" "H-2013.03-SP2 64-BIT"
+* "format" "HSP"
+* "rundate" "12:29:47 03/08/2018 "
+* "netlist" "t and z.sp "
+* "runtitle" "t and z"
+* time =  0.000e+00       
+* temperature =  2.500e+01       
+*** BEGIN: Saved Operating Point ***                     
+.option 
++ gmindc= 1.000e-12       
+.nodeset
++ k4 = 1.054e-06       
++ m1 = 9.000e-01       
++ m2 = 9.000e-01       
++ m3 = 9.000e-01       
++ n1 = 4.751e-11       
++ n2 = 9.000e-01       
++ n3 = 2.071e-02       
++ n4 = 8.719e-01       
++ n5 = 1.918e-03       
++ n9 = 9.000e-01       
++ o1 = 0.000e+00       
++ o2 = 0.000e+00       
++ o3 = 0.000e+00       
++ o4 = 2.589e-02       
++ o5 = 1.522e-02       
++ px = 8.993e-01       
++ py = 8.993e-01       
++ t = 2.109e-06       
++ vdd = 9.000e-01       
++ vdd2 = 4.500e-01       
++ x = 0.000e+00       
++ x0 = 9.000e-01       
++ x1 = 7.282e-04       
++ y = 0.000e+00       
++ y0 = 9.000e-01       
++ y1 = 7.282e-04       
++ z = 5.130e-02       
+***   END: Saved Operating Point ***                     
