@@ -1,4 +1,4 @@
-T and Z
+Tama on First Commit
 
 .option post
 .op
